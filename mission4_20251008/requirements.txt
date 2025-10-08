@@ -1,0 +1,12 @@
+openai
+huggingface-hub
+numpy
+pandas
+tqdm
+datasets
+python-dotenv
+ragas
+langchain_community
+pypdf
+rank_bm25
+prettytable
