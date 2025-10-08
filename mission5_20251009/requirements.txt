@@ -1,0 +1,8 @@
+openai
+numpy
+pymongo
+fastapi[standard]
+dnspython
+gradio
+python-dotenv
+selenium
